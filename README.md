@@ -1,2 +1,2 @@
 # Convert-emails-to-tabular-format
-This is project is to convert text specifically emails to structured format using natural language processing and text mining
+This project focuses on extracting meaningful information from emails. It consists of five pillars. First, sentiment analysis to extract the opinion from each email. Second, Keywords extraction to extract three most important keywords from each email. Third, summary extraction to extract a one-sentence summary from each email. Forth, Regex extraction to extract words with a specific pattern such as phone number and date. Fifth, entity extraction to name entities such as person and organisation name. Finally, this extracted is combined and converted to JSON format to obtain a structure representation from email.
